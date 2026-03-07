@@ -279,23 +279,7 @@ This project demonstrates:
 
 ---
 
-# 🔮 Future Improvements
 
-Possible future enhancements:
 
-* Build a **Power BI Dashboard**
-* Create **interactive Plotly visualizations**
-* Add **machine learning models for match prediction**
-* Deploy as a **data analytics web dashboard**
-
----
-
-# 👨‍💻 Author
-
-**Priyanshu Kumar Ray**
-
-Aspiring **Data Analyst / Data Scientist** passionate about turning data into insights.
-
----
 
 ⭐ If you found this project helpful, consider **starring the repository**!
